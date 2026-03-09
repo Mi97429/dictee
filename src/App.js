@@ -525,7 +525,7 @@ export default function App() {
         } else {
           setResult({
             status: 'victory',
-            message: '🏆 MISSIE VOLTOOID! JE BENT EEN HACKER GOD!'
+            message: '🏆 MISSIE VOLTOOID! JE BENT EEN LETTERBOSS!'
           });
           setIsTransitioning(false);
         }
