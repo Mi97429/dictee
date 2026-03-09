@@ -616,7 +616,7 @@ export default function App() {
           <div className="text-center space-y-3 sm:space-y-4 mb-4 sm:mb-8">
             <div className="flex items-center justify-center gap-2 sm:gap-3 text-emerald-400 mb-2">
               <Terminal size={40} className="sm:w-12 sm:h-12" />
-              <h1 className="text-3xl sm:text-5xl font-bold tracking-tight">Dictee Dojo OS</h1>
+              <h1 className="text-3xl sm:text-5xl font-bold tracking-tight">Word_Master</h1>
             </div>
             <p className="text-slate-400 text-sm sm:text-xl px-4">Selecteer je missie of creëer je eigen simulatie.</p>
           </div>
